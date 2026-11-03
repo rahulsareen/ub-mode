@@ -107,17 +107,17 @@ Every time you are asked to make a change follow:
 
 ## Crapper
 
-* Use the crapper tool
+* Use the crap-score skill
 * Reduce each function under  CRAP 10 by splitting it, by testing it, or both.
 * Consider whether case statements are worth reducing.
 
 ## Dryer
 
-* Use the dryer tool to eliminate duplication that rank 0.8 or above.
+* Use the csharp-dryer skill to eliminate duplication that rank 0.8 or above.
 
 ## Mutator
 
-* Use the mutator tool
+* Use the stryker skill
 * Cover the uncovered.
 * Kill the survivors.
 * Delete dead code.
